@@ -1,4 +1,7 @@
 milehigh.world
+
+Milehigh.world is an app for artists and music creators in the music industry where they can grow and build their skills and network with industry professionals to achieve success in the music industry 
+
 1. Music Education and Learning:
 Milehigh.world offers a variety of resources to help musicians enhance their skills and knowledge. This includes tutorials, online courses, and workshops on various aspects of music production, songwriting, music theory, and instrument mastery. These resources aim to provide musicians with the tools and techniques to improve their craft and pursue their musical aspirations.
 2.Networking and Collaboration:
